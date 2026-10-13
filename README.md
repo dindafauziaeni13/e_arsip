@@ -227,7 +227,3 @@ e-arsip/
 Project ini dilisensikan di bawah lisensi [MIT License](LICENSE). Bebas digunakan, dimodifikasi, dan dikembangkan untuk keperluan edukasi dan instansi.
 
 ---
-
-<div align="center">
-  <sub>Dikembangkan dengan ❤️ untuk modernisasi tata kelola kearsipan dokumen keuangan daerah.</sub>
-</div>
